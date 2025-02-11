@@ -49,7 +49,7 @@ The Gradient Boosting model outperformed other models in terms of both accuracy 
 ## Tools and Libraries Used
 - Programming Language: Python
 - Libraries:
-- - `pandas`
+  - `pandas`
   - `numpy`
   - `matplotlib`
   - `scikit-learn`
