@@ -66,7 +66,11 @@ Key Takeaways:
 
 ## Contact Information
 Feel free to connect or reach out:
+
 GitHub Repository: https://github.com/leonardo0231 
+
 LinkedIn Profile: linkedin.com/in/jalil-ahmad-afshar-055a98186
+
 Email: jalilahmad1309@gmail.com
+
 Telegram: t.me/jalilov051
